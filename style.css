@@ -1,0 +1,55 @@
+.navigation{
+  background-color: #f28abd;
+  height: 50px;
+  width: auto;
+}
+.navigation h1{
+  color: #fff;
+}
+#main {
+    background-color: #58b795;
+    width: 20%;
+    margin: 0 auto;
+    height: 30px;
+}
+#sidebar{
+  width: 20%;
+  background-color: #f28abd;
+
+}
+.fixed {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 200px;
+    height: 50px;
+    background-color: #1a2d4b;
+}
+p{
+  color: #ffffff !important;
+  font-family: monospace;
+  font-size: 14pt
+  letter-spacing: 2pt
+}
+.lista li a{
+  display: :block;
+  position: relative;
+  left: 15px;
+}
+.lista li a:first-child{
+  position: absolute;
+  left: 150px;
+}
+.fejlec_1, .fejlec_2{
+  text-align: center;
+}
+img{
+  width: 300px;
+  border: 4px dotted #fff;
+  border-radius: 100%;
+  padding: 5px;
+}
+#no1{
+background-color: #58b795
+
+}
