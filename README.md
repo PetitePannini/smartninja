@@ -1,1 +1,2 @@
 # smartninja
+Hello!
